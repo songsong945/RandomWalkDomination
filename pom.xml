@@ -12,7 +12,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>4.3.11.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <nd4j.version>0.9.1</nd4j.version>
         <cglib.version>3.2.5</cglib.version>
         <gs.version>1.3</gs.version>
